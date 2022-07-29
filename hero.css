@@ -1,0 +1,29 @@
+.hero-banner {
+  background-image: url(./assets/images/heroimg.png);
+  background-position: 105%;
+  background-repeat: no-repeat;
+  background-size: contain;
+  padding: 80px 0;
+}
+
+.hero-message {
+  width: 100%;
+}
+
+h1 {
+  font-size: 95px;
+  letter-spacing: 0.3px;
+  margin: 0;
+}
+
+.hero-message span {
+  font-size: 24px;
+  line-height: 18px;
+}
+
+h2 {
+  text-align: center;
+  width: 100%;
+  color: #6df1f9;
+  font-weight: 100;
+}
